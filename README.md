@@ -97,3 +97,5 @@ To generate a packaged application:
   ```
   $ ./out/Trellis-linux-x64/Trellis
   ```
+
+### Automerge test
